@@ -1,0 +1,3 @@
+Dr. Ahmed,ahmed@saos.edu,fac123,5000,CL1004-A;CL1004-B;EE1005-A;
+Prof. Fatima,fatima@saos.edu,fac456,0,MT1008-B;
+Dr. Raza,raza@saos.edu,fac789,1000,SS1014-A;SS1015-B;
